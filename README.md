@@ -8,7 +8,7 @@ Note: the upstream project has stalled in its development.  I would not recommen
 
 ------------------------------------
 
-Mark Text Portable is a simple and elegant Markdown editor focused on speed and usability. It's packaged with a PortableApps.com launcher as a [portable app](https://portableapps.com/about/what_is_a_portable_app), so you can use it from a cloud folder, portable drive, or local folder without needing to install it on each PC. [Learn more about Mark Text...](https://marktext.app/)
+Mark Text Portable is a simple and elegant Markdown editor focused on speed and usability. It's packaged with a PortableApps.com launcher as a [portable app](https://portableapps.com/about/what_is_a_portable_app), so you can use it from a cloud folder, portable drive, or local folder without needing to install it on each PC.
 
 * [Support PortableApps.com's Hosting and Development](https://portableapps.com/donate)
 * [Go to the Mark Text Portable Homepage](https://github.com/jgonyea/Mark-Text-Portable)
